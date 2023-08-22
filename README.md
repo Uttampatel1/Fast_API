@@ -152,4 +152,4 @@ async def read_item(item_id: int):
     return {"item_id": item_id}
 ```
 
-Feel free to sprinkle in these emojis to make your FastAPI journey even more enjoyable! 😄 For more detailed information, refer to the [official documentation](https://fastapi.tiangolo.com/).
+😄 For more detailed information, refer to the [official documentation](https://fastapi.tiangolo.com/).
